@@ -12,7 +12,7 @@ This project was created as part of my **ApexPlanet training task**.
 - Confetti celebration  (full sprinkle for 100%, half for 50%+)  
 
  **Joke Section**  
-- Fetches live jokes from the [Official Joke API](https://official-joke-api.appspot.com/)  
+- Fetches live jokes from the [Official Joke API](https://official-joke-api.appspot.com/random_joke)  
 - Fun punchline reveal  
 
 **UI Features**  
@@ -22,8 +22,7 @@ This project was created as part of my **ApexPlanet training task**.
 
 ---
 
-##  Live Demo  
- [Click here to view the project](https://Preetha234M.github.io/quiz-joke-app/)    
+
 
 ---
 
@@ -31,13 +30,13 @@ This project was created as part of my **ApexPlanet training task**.
 - **HTML5**  
 - **CSS3** (Glassmorphism + Responsive Design)  
 - **JavaScript (ES6)**  
-- **Canvas Confetti JS** for celebrations 🎉  
+- **Canvas Confetti JS** for celebrations  
 
 ---
 
 ##  Screenshots  
 ### Quiz Page  
-![Quiz Screenshot](screenshots_Quiz.png)  
+![Quiz Screenshot](screenshot_Quiz.png)  
 
 ### Joke Page  
 ![Joke Screenshot](Screenshot_joke.png)  
