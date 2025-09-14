@@ -36,7 +36,7 @@ This project was created as part of my **ApexPlanet training task**.
 
 ##  Screenshots  
 ### Quiz Page  
-![Quiz Screenshot](screenshot_Quiz.png)  
+![Quiz Screenshot](Screenshot_Quiz.png)  
 
 ### Joke Page  
 ![Joke Screenshot](Screenshot_joke.png)  
